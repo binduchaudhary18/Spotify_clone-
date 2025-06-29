@@ -1,2 +1,2 @@
-# Spotify_clone-
-This is my first project in github. It is a spotify clone with some modifications from my side. It is fully responsive .
+# Spotify_clone
+This project is a custom-built clone of the Spotify website, created using HTML, CSS, and JavaScript. While inspired by Spotify's design, I have made several unique modifications to improve the visual layout, animations, and user experience. The interface is designed to be fully responsive, ensuring smooth performance across all screen sizes, including desktops, tablets, and smartphones.
